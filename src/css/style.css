@@ -9,3 +9,17 @@ html {
     width: 100%;
     height: 100%;
 }
+
+.wrap {
+    font-size: .32rem;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    width: 100%;
+    height: 0.6rem;
+    line-height: 0.6rem;
+    background: red;
+    text-align: center;
+}
